@@ -20,7 +20,7 @@ $c$ - coefficient estimated based on half-life
 
 ## Data
 
-The script contains a dictionary named `drinks` that stores various drinks and their respective caffeine content based on data from [Coffee code](https://www.coffeecode.co.uk):
+The script contains a dictionary named `drinks` that stores various drinks and their respective caffeine content based on data from [Coffee code](https://www.coffeecode.co.uk){:target="_blank"}:
 
 ```python
 drinks = {
@@ -35,4 +35,4 @@ drinks = {
 ```
 ## Author
 
-[**Mariusz Barański**](https://www.linkedin.com/in/mariuszbaranski/)
+[**Mariusz Barański**](https://www.linkedin.com/in/mariuszbaranski/){:target="_blank"}
