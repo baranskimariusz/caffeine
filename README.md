@@ -6,19 +6,16 @@ This Python script allows users to calculate caffeine concentration in their bod
 
 Algorithm is based on caffeine half-life in plasma and other factors.
 
-\[
-CI = d \times t^{c}
-\]
 
-\[
-c = \log(0.9)
-\]
+$CI = d \times t^{c}$
+
+$c = \log(0.9)$
 
 Where,
-\[CI\] - caffeine intake
-\[d\] - caffeine content of a given drink
-\[t\] - time since intake (hours)
-\[c\] - coefficient estimated based on half-life
+$CI$ - caffeine intake
+$d$ - caffeine content of a given drink
+$t$ - time since intake (hours)
+$c$ - coefficient estimated based on half-life
 
 
 ## Data
