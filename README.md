@@ -11,10 +11,10 @@ $CI = d \times t^{c}$
 
 $c = \log(0.9)$
 
-Where,
-$CI$ - caffeine intake
-$d$ - caffeine content of a given drink
-$t$ - time since intake (hours)
+Where,\
+$CI$ - caffeine intake\
+$d$ - caffeine content of a given drink\
+$t$ - time since intake (hours)\
 $c$ - coefficient estimated based on half-life
 
 
