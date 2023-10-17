@@ -35,4 +35,4 @@ drinks = {
 ```
 ## Author
 
-#### Mariusz Barański
+[**Mariusz Barański**](https://www.linkedin.com/in/mariuszbaranski/)
